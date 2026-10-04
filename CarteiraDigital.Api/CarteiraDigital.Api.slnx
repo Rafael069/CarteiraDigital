@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D:/CarteiraDigital/CarteiraDigital.Api/CarteiraDigital.Api.csproj" />
+  <Project Path="D:/CarteiraDigital/CarteiraDigital.Application/CarteiraDigital.Application.csproj" />
+  <Project Path="D:/CarteiraDigital/CarteiraDigital.Domain/CarteiraDigital.Domain.csproj" />
+  <Project Path="D:/CarteiraDigital/CarteiraDigital.Infrastructure/CarteiraDigital.Infrastructure.csproj" />
+</Solution>
